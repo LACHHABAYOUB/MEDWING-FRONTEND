@@ -34,7 +34,7 @@ cd MEDWING-FRONTEND
 
 4.2 Back-end part
 
-You should go to API directory 
+You should go to MEDWING-BACKEND directory 
 ```sh
 cd MEDWING-BACKEND
 - npm Install
@@ -45,4 +45,4 @@ cd MEDWING-BACKEND
 5 Author
 
 Ayoub LACHHAB
-This App Build For innoscripta Company 
+This App Build For Medwing Company 
