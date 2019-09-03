@@ -1,0 +1,40 @@
+.contentmodal {
+  display: flex;
+  justify-content: center;
+}
+
+.contentmodal-title {
+  color: #1fffbf;
+}
+
+.contentmodal-field {
+  margin-bottom: 12px;
+}
+
+.contentmodal-label {
+  display: block;
+  font-size: 14px;
+}
+
+.contentmodal-input {
+  border-radius: .3em;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+.contentmodal-button {
+  background-color: #1fffbf;
+  border: 1px solid transparent;
+  border-color: #1fffbf;
+  border-radius: .3em;
+  color: #fff;
+  margin: 15px 0 0 15px;
+  padding: 5px;
+}
+
+.contentmodal-button.disabled {
+  background-color: #ccc;
+  border: 1px solid #999;
+  color: #999;
+  pointer-events: none;
+}
